@@ -26,6 +26,12 @@ h1 {
   text-shadow: -3px 0 1px rgba(255, 0, 0, 0.1), 3px 0 1px rgba(0, 0, 255, 0.1);
 }
 
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 3.5rem;
+  }
+}
+
 h2 {
   font-weight: 400;
   font-size: 1.5rem;
