@@ -35,7 +35,7 @@ h2 {
 
 form {
   display: grid;
-  grid-template-row: 1fr 0.15fr;
+  grid-template-rows: 1fr 0.15fr;
   grid-gap: 1rem;
   max-width: 60%;
   margin: 0 auto;
